@@ -1,0 +1,36 @@
+{
+  "id": "CD:0A:00:00:00:01",
+  "battery_voltage": 2970,
+  "version": 1,
+  "logs": [
+    {
+      "timestamp": 1588060476,
+      "active": true,
+      "records": [
+        {
+          "id": "CD:0A:00:00:00:02",
+          "prealarm": 6,
+          "alarm": 7
+        },
+        {
+          "id": "CD:0A:00:00:00:03",
+          "prealarm": 0,
+          "alarm": 0
+        },
+        {
+          "id": "CD:0A:00:00:00:04",
+          "prealarm": 17,
+          "alarm": 0
+        },
+      ]
+    },
+    ...
+    {
+      "timestamp": 1588061376,
+      "active": true,
+      "records": [
+      ]
+    },
+    ...
+  ]
+}
